@@ -233,6 +233,8 @@ Developed with ❤️ to make healthcare safer, clearer, and more human.
 
 * I extend sincere grattitude to the researchers and engineers whose work in responsible medical AI, particularly through MedGemma and HeAR, has made it possible to pursue safer clinical decision support. This project is both a learning journey and a responsibility; I remain committed to building DhanvaCare with humility, ethical rigor, and empathy, always mindful that technology in healthcare must serve human judgment, preserve dignity, and ultimately protect life.
 🙏🏻🙏🏻🙏🏻
-With warm regards,
-Trisha . D
+
+* With warm regards,
+  
+  Trisha . D
 ---

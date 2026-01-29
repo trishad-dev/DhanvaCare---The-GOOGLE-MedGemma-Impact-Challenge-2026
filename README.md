@@ -1,14 +1,14 @@
-# DhanvaCare  The GOOGLE MedGemma Impact Challenge 2026
+# 🩺 DhanvaCare  
+**MedGemma Impact Challenge 2026**
 
-AI-powered medical diagnosis ecosystem using Google MedGemma and HeAR. Designed to eliminate misdiagnosis .
+**DhanvaCare** is a **conceptual, design-focused AI healthcare decision-support ecosystem** built using **Google MedGemma (HAI-DEF)** and **HeAR (Health Acoustic Representations)**.  
+It is designed to **reduce preventable medical errors caused by miscommunication**—between patients and clinicians, across care teams, and during critical medical handoffs.
 
-# 🩺 **DhanvaCare**
+Named after *Dhanvantari* as a historical association with medicine, DhanvaCare reflects a design philosophy that combines **trusted medical knowledge with modern, safety-aligned AI** to improve clarity, continuity, and care coordination.
 
-Eliminating Medical Miscommunication through Multimodal AI
+> **TL;DR:** A MedGemma-powered, safety-first healthcare support system focused on reducing misdiagnosis caused by medical miscommunication.
 
-* **DhanvaCare** is an AI-powered medical diagnosis and care-navigation ecosystem designed to reduce preventable medical errors caused by miscommunication—between patients and doctors, between medical practitioners, and during critical medical handoffs.
-
-* Powered by **Google’s MedGemma (HAI-DEF)** and **HeAR (Health Acoustic Representations) foundation models**, DhanvaCare acts as a **Smart Clinical Bridge** that ensures no critical symptom, context, or medical history is lost when it matters most.
+> ⚠️ **Important**: This submission is a **non-clinical, non-diagnostic prototype**. All outputs are illustrative. No real patient data, backend pipelines, or clinical decision logic are included.
 
 ---
 
@@ -24,7 +24,7 @@ I have *personally witnessed multiple deaths and serious medical complications* 
 
 None of this is intentional — it is a **systemic human limitation in high-pressure healthcare environments**.
 
-These gaps inspired me to build **DhanvaCare** — **a system that listens better, remembers better, and communicates better* than traditional workflows.
+These gaps inspired me to build **DhanvaCare** — *a system that listens better, remembers better, and communicates better* than traditional workflows.
 
 ---
 
@@ -41,19 +41,18 @@ It supports them, especially when time, clarity, and continuity are at risk.
 
 #🌟 **Core Capabilities — The 6-Pillar Framework**
 
+> *This prototype focuses on demonstrating a unified safety-first workflow rather than fully implementing each module.*
+
 1️⃣ **AI Diagnosis & Intelligent Triage**
 
 A shared tool for patients, nurses, and doctors
 
 **Multimodal inputs:**
 
-     * 📝 Text
-
-     * 🎤 Voice (HeAR)
-
-     * 📷 Camera (visual symptoms)
-
-     * 📄 Medical document importer
+* 📝 Text
+* 🎤 Voice (HeAR)
+* 📷 Camera (visual symptoms)
+* 📄 Medical document importer
 
 * Local-language UI support (designed for countries like India)
 
@@ -62,9 +61,7 @@ A shared tool for patients, nurses, and doctors
 * AI-generated diagnostic report with:
       * Structured symptom summary
       * Risk triage
-      * Probable conditions expressed in percentage likelihoods
-* Powered by MedGemma (HAI-DEF) and HeAR
-**Clinical benefit:**
+      * Probable condition ranges (non-diagnostic)
 Nurses or staff can collect complete information before the doctor arrives, making treatment faster and more efficient.
 
 ---
@@ -139,8 +136,8 @@ Designed for Golden Hour situations
      * Treatment or surgery necessity
 
 * Used by:
-     * **Patients → clarity & reduced fear*
-     * **Doctors → better communication & informed consent*
+     * *Patients → clarity & reduced fear*
+     * *Doctors → better communication & informed consent*
 
 ---
 
@@ -182,6 +179,7 @@ Designed for Golden Hour situations
  
  └── Med-Vault
 
+> Black-box representation only. No clinical scoring or diagnostic logic included.
 ---
 
 # **🛠️ Technology Stack**
@@ -197,12 +195,22 @@ Designed for Golden Hour situations
 
 * Frontend
 
-     * Vibe-coded Web Architecture (Creao.ai)
+     * Vibe-coded Web Architecture 
 
 * Design Philosophy
 
      * Human-Centric Design Thinking
  
+---
+
+# 📊 Intended Evaluation (Conceptual)
+
+The system would be evaluated on:
+- Completeness of symptom capture  
+- Reduction of information loss during handoffs  
+- Clinician time saved during intake  
+- Safety alignment and conservativeness of AI outputs  
+
 ---
 
 # **🔒 Ethics, Safety & Responsibility**
@@ -217,10 +225,7 @@ Designed for Golden Hour situations
 
 # **🧬 About the Developer**
 
-I am **Trisha D**, a *first-semester Computer Science & Engineering student* at **Sir MVIT, Bengaluru, India**, with a strong background in Biology from my Pre University College.
-**DhanvaCare** is my submission for the **2026 MedGemma Impact Challenge**, built from *real-world observations* and a *desire to make healthcare safer through responsible AI.*
-
----
+I am **Trisha. D**, a first-year Computer Science & Engineering student at Sir MVIT, Bengaluru, India, with a strong foundation in Biology from Pre-University College (+1 & +2). While I am early in my CS journey and have limited coding experience, I have leveraged AI-assisted design tools and conceptual modeling to create DhanvaCare — a prototype focused on reducing preventable medical errors through human-centered AI.
 
 # **❤️ Closing Note**
 
@@ -229,12 +234,13 @@ This project is my attempt to reduce those gaps — with empathy, technology, an
 
 Developed with ❤️ to make healthcare safer, clearer, and more human.
 
-# Oath Of Thanks
+### ✅ CC BY 4.0 / Prototype Safety
 
-* I extend sincere grattitude to the researchers and engineers whose work in responsible medical AI, particularly through MedGemma and HeAR, has made it possible to pursue safer clinical decision support. This project is both a learning journey and a responsibility; I remain committed to building DhanvaCare with humility, ethical rigor, and empathy, always mindful that technology in healthcare must serve human judgment, preserve dignity, and ultimately protect life.
-🙏🏻🙏🏻🙏🏻
+This repository and submission are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
-* With warm regards,
-  
-  Trisha . D
----
+- Only **conceptual, illustrative, and design-focused elements** are included.  
+- **Core AI pipelines, clinical decision logic, backend systems, and real patient data** are intentionally excluded to protect intellectual property and ensure patient safety.  
+- This prototype demonstrates **workflow, UX, and impact**, not a production-ready clinical system.  
+- AI is intended **only as decision support**, and doctors remain the final authority.
+
+📌 *For the personal motivation and real-world experiences that inspired this project, see* **VISION.md**.

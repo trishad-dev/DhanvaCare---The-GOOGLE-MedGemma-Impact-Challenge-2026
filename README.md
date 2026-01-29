@@ -213,6 +213,28 @@ The system would be evaluated on:
 
 ---
 
+# 1️⃣ Frontend Prototype (CreaoAI)
+
+* A no-code UI prototype demonstrating user interaction
+
+* Simulates patient and clinician workflows
+
+* Uses mocked AI responses for demonstration
+
+🔗** Prototype Link**: https://app.creao.ai/share?app=m1ttYu1w&utm_source=share&utm_medium=link
+
+---
+
+# 📓 Backend Intelligence [Kaggle Notebook (Core AI Logic)]
+
+The primary MedGemma-based reasoning and prompt design are demonstrated in a Kaggle notebook submitted as part of the Google MedGemma Impact Challenge 2026.
+
+🔗 **Kaggle Notebook:** https://www.kaggle.com/code/trishadayanand/dhanvacare
+
+Due to ethical, deployment, and security considerations, live model inference is not connected to the frontend. All AI reasoning is transparently demonstrated in the notebook.
+
+---
+
 # **🔒 Ethics, Safety & Responsibility**
 
 * ❌ No autonomous diagnosis or prescriptions

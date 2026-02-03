@@ -265,4 +265,4 @@ This repository and submission are licensed under **Creative Commons Attribution
 - This prototype demonstrates **workflow, UX, and impact**, not a production-ready clinical system.  
 - AI is intended **only as decision support**, and doctors remain the final authority.
 
-📌 *For the personal motivation and real-world experiences that inspired this project, see* **VISION.md**.
+📌 *For the personal motivation and real-world experiences that inspired this project, see* **Vision.md**.

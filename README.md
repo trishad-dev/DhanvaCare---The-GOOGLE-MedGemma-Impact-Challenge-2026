@@ -39,7 +39,7 @@ It supports them, especially when time, clarity, and continuity are at risk.
 
 ---
 
-#🌟 **Core Capabilities — The 6-Pillar Framework**
+# 🌟 **Core Capabilities — The 6-Pillar Framework**
 
 > *This prototype focuses on demonstrating a unified safety-first workflow rather than fully implementing each module.*
 
@@ -184,12 +184,12 @@ Designed for Golden Hour situations
 
 # **🛠️ Technology Stack**
 
-* AI Models
+* AI Models ( Future Integration)
 
     * Google MedGemma (HAI-DEF)
     * HeAR (Health Acoustic Representations)
 
-* Cloud & Deployment
+* Cloud & Deployment ( Future)
 
     * Google Cloud Vertex AI
 
@@ -213,7 +213,7 @@ The system would be evaluated on:
 
 ---
 
-# 1️⃣ Frontend Prototype (CreaoAI)
+# 1️⃣ Frontend Prototype (Lovable)
 
 * A no-code UI prototype demonstrating user interaction
 
@@ -221,7 +221,7 @@ The system would be evaluated on:
 
 * Uses mocked AI responses for demonstration
 
-🔗** Prototype Link**: https://app.creao.ai/share?app=m1ttYu1w&utm_source=share&utm_medium=link
+🔗**Prototype Link:** https://dhanvacare-ai-trisha.lovable.app
 
 ---
 
@@ -229,7 +229,7 @@ The system would be evaluated on:
 
 The primary MedGemma-based reasoning and prompt design are demonstrated in a Kaggle notebook submitted as part of the Google MedGemma Impact Challenge 2026.
 
-🔗 **Kaggle Notebook:** https://www.kaggle.com/code/trishadayanand/dhanvacare
+🔗 **Kaggle Notebook:** https://www.kaggle.com/code/trishadayanand/dhanvacare-ai-powered-symptom-triage-assistant
 
 Due to ethical, deployment, and security considerations, live model inference is not connected to the frontend. All AI reasoning is transparently demonstrated in the notebook.
 

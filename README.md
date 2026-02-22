@@ -28,9 +28,24 @@ These gaps inspired me to build **DhanvaCare** — *a system that listens better
 
 ---
 
-# 🚀 **The Vision**
+# 🚀 **The Solution**
 
-DhanvaCare is designed to capture patient information once, structure it intelligently, and reuse it safely across care journeys.
+**DhanvaCare** is designed to capture patient information once, structure it intelligently, and reuse it safely across care journeys.
+
+**DhanvaCare** is an AI-assisted, non-diagnostic Clinical Decision Support System designed to:
+
+* Capture structured symptom input
+
+* Interpret symptoms using MedGemma
+
+* Align outputs with clinical safety guardrails
+
+* Generate triage recommendations
+
+* Maintain clinician-in-the-loop oversight
+
+⚠️ The system does NOT provide medical diagnoses.
+It supports triage and structured communication.
 
 *Better symptom capture → better clinical reasoning → safer outcomes.*
 
@@ -244,6 +259,33 @@ Due to ethical, deployment, and security considerations, live model inference is
 * 👨‍⚕️ Doctors remain the final authority
 
 ---
+
+# 🚀 **Future Developmental Phases and Scope**
+
+**Developmental Phase**
+Phase 1 – Concept & Prototype (Completed)
+Phase 2 – API Integration & Live Model Inference
+Phase 3 – Real-world Validation & User Testing
+Phase 4 – Clinical Collaboration & Deployment
+
+**Future Scope**
+**🌿 Veda Alchemix** (Future Feature within DhanvaCare)
+
+Veda Alchemix will be introduced as a wellness intelligence module that bridges the traditional wisdom of Ayurveda with modern lifestyle needs.
+
+Planned capabilities:
+
+* Translate Ayurvedic principles into practical, kitchen-friendly wellness recommendations.
+* Suggest food-based preventive care aligned with user health profiles.
+* Provide evidence-informed traditional remedy guidance alongside modern medical triage (clearly separated as supportive wellness, not diagnosis).
+* Promote preventive healthcare by connecting traditional roots of Ayurveda into the modern kitchen ecosystem.
+
+**🌍 Ecosystem Expansion**
+Integration with wearable health devices.
+Hospital and telemedicine platform interoperability.
+Population-level health analytics for public health insights.
+Offline-first lightweight deployment for rural and low-connectivity regions.
+
 
 # **🧬 About the Developer**
 

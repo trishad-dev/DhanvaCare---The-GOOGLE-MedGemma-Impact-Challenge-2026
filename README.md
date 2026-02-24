@@ -77,6 +77,7 @@ AI-generated diagnostic report with:
 * Structured symptom summary
 * Risk triage
 * Probable condition ranges (non-diagnostic)
+  
 Nurses or staff can collect complete information before the doctor arrives, making treatment faster and more efficient.
 
 ---

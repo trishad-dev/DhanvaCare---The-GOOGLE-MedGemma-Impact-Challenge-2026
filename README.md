@@ -73,10 +73,10 @@ A shared tool for patients, nurses, and doctors
 
 * Conversational Q&A-style symptom intake
 
-* AI-generated diagnostic report with:
-      * Structured symptom summary
-      * Risk triage
-      * Probable condition ranges (non-diagnostic)
+AI-generated diagnostic report with:
+* Structured symptom summary
+* Risk triage
+* Probable condition ranges (non-diagnostic)
 Nurses or staff can collect complete information before the doctor arrives, making treatment faster and more efficient.
 
 ---
